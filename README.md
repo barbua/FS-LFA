@@ -1,6 +1,6 @@
 # FS-LFA
 Supporting code for our paper:
-- Feature Selection for Latent Factor Models. CVPR, 2025
+- Feature Selection for Latent Factor Models. CVPR, 2025. 
 https://arxiv.org/pdf/2412.10128
 
 Files:
