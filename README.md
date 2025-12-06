@@ -4,4 +4,5 @@ Supporting code for our paper:
 https://arxiv.org/pdf/2412.10128
 
 Files:
+- compute_features.ipynb extracts features using different models (CLIP, DINO, SWSL) and saves them as files.
 - CODE_CVPR.ipynb contains all the code to extract CLIP features, train models (LFA, PPCA, ELF, Hetero PCA, Linear) with feature selection, and perform classification using the Mahalanobis distance or a standard linear projection head.
